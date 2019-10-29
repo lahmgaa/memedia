@@ -1,0 +1,99 @@
+        #again{width: 200px; height: 70px; color: white; background-color: #0e0e0e; font-size: 2em; position: absolute; right: 70px; bottom: 20px; z-index: 4; border: 0px solid #2eb8ce;}
+        #again:hover{z-index: 1; cursor: pointer; background-color: rgba(255, 255, 255, 0.062); border-radius: 10px; }
+        
+        #to2{width: 300px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 550px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to2:hover{cursor: pointer; background-color: #F9DDB7; border-radius: 10px;}
+        #to2:hover ~ #boxgraph1{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 290px; height: 60px; top:calc(50% - 290px);  left: calc(50% + 427px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        
+
+        #to21{width: 300px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 900px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to21:hover{cursor: pointer; background-color: #0867FF; border-radius: 10px;}
+        #to21:hover ~ #boxgraph21{cursor: pointer; background-color: #0867FF; opacity: 1; width: 120px; height: 60px; top:calc(50% - 207px);  left: calc(50% + 290px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to22{width: 300px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 550px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to22:hover{cursor: pointer; background-color: #7750DB; border-radius: 10px;}
+        #to22:hover ~ #boxgraph22{cursor: pointer; background-color: #7750DB; opacity: 1; width: 120px; height: 60px; top:calc(50% - 207px);  left: calc(50% + 510px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to23{width: 300px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 200px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to23:hover{cursor: pointer; background-color: #FF2732; border-radius: 10px;}
+        #to23:hover ~ #boxgraph23{cursor: pointer; background-color: #FF2732; opacity: 1; width: 120px; height: 60px; top:calc(50% - 207px);  left: calc(50% + 730px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to211{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 900px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to211:hover{cursor: pointer; background-color: #FF2732; border-radius: 10px;}
+        #to211:hover ~ #boxgraph211{cursor: pointer; background-color: #FF2732; opacity: 1; width: 250px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 175px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to212{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 350px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to212:hover{cursor: pointer; background-color: #121C4D; border-radius: 10px;}
+        #to212:hover ~ #boxgraph212{cursor: pointer; background-color: #121C4D; opacity: 1; width: 250px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 272px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to221{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 900px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to221:hover{cursor: pointer; background-color: #0867FF; border-radius: 10px;}
+        #to221:hover ~ #boxgraph221{cursor: pointer; background-color: #0867FF; opacity: 1; width: 250px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 395px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to222{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 350px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to222:hover{cursor: pointer; background-color: #FF2732; border-radius: 10px;}
+        #to222:hover ~ #boxgraph222{cursor: pointer; background-color: #FF2732; opacity: 1; width: 270px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 482px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        
+        #to223{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to223:hover{cursor: pointer; background-color: #F9DDB7; border-radius: 10px;}
+        #to223:hover ~ #boxgraph223{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 200px; height: 60px; top:calc(50% - 49px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to223_2{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to223_2:hover{cursor: pointer; background-color: #F9DDB7; border-radius: 10px;}
+        #to223_2:hover ~ #boxgraph223{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 200px; height: 60px; top:calc(50% - 49px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to24{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 350px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to24:hover{cursor: pointer; background-color: #121C4D; border-radius: 10px;}
+        #to24:hover ~ #boxgraph232{cursor: pointer; background-color: #121C4D; opacity: 1; width: 270px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 675px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to231{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 900px); top: calc(50% + 300px); z-index: 4; border: 0px solid #7750DB; display:none;}
+        #to231:hover{cursor: pointer; background-color: #7750DB; border-radius: 10px;}
+        #to231:hover ~ #boxgraph231{cursor: pointer; background-color: #7750DB; opacity: 1; width: 240px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 620px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to3{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; display:none;}
+        #to3:hover{cursor: pointer; background-color: #2eb8ce; border-radius: 10px;}
+        #to3:hover ~ #boxgraph3{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 200px; height: 60px; top:calc(50% + 33px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to302{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to302:hover{cursor: pointer; background-color: #2eb8ce; border-radius: 10px;}
+        #to302:hover ~ #boxgraph3{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 200px; height: 60px; top:calc(50% + 33px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to3_3{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to3_3:hover{cursor: pointer; background-color: #2eb8ce; border-radius: 10px;}
+        #to3_3:hover ~ #boxgraph3{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 200px; height: 60px; top:calc(50% + 33px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to3_4{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to3_4:hover{cursor: pointer; background-color: #2eb8ce; border-radius: 10px;}
+        #to3_4:hover ~ #boxgraph3{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 200px; height: 60px; top:calc(50% + 33px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to3_5{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to3_5:hover{cursor: pointer; background-color: #2eb8ce; border-radius: 10px;}
+        #to3_5:hover ~ #boxgraph3{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 200px; height: 60px; top:calc(50% + 33px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to31{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 900px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; z-index: -1;display:none;}
+        #to31:hover{cursor: pointer; background-color: #0867FF; border-radius: 10px;}
+        #to31:hover ~ #boxgraph31{cursor: pointer; background-color: #0867FF; opacity: 1; width: 240px; height: 60px; top:calc(50% + 110px);  left: calc(50% + 362px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to32{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 350px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce; z-index: -1;display:none;}
+        #to32:hover{cursor: pointer; background-color: #121C4D; border-radius: 10px;}
+        #to32:hover ~ #boxgraph32{cursor: pointer; background-color: #121C4D; opacity: 1; width: 240px; height: 60px; top:calc(50% + 110px);  left: calc(50% + 535px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to311{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to311:hover{cursor: pointer; background-color: #F9DDB7; border-radius: 10px;}
+        #to311:hover ~ #boxgraph311{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 280px; height: 60px; top:calc(50% + 190px);  left: calc(50% + 340px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to321{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 900px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to321:hover{cursor: pointer; background-color: #121C4D; border-radius: 10px;}
+        #to321:hover ~ #boxgraph321{cursor: pointer; background-color: #121C4D; opacity: 1; width: 200px; height: 60px; top:calc(50% + 190px);  left: calc(50% + 505px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to322{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 350px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to322:hover{cursor: pointer; background-color: #7750DB; border-radius: 10px;}
+        #to322:hover ~ #boxgraph322{cursor: pointer; background-color: #7750db; opacity: 1; width: 200px; height: 60px; top:calc(50% + 190px);  left: calc(50% + 600px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+
+        #to4{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to4:hover{cursor: pointer; background-color: #FF2732; border-radius: 10px;}
+        #to4:hover ~ #boxgraph4{cursor: pointer; background-color: #FF2732; opacity: 1; width: 280px; height: 60px; top:calc(50% + 272px);  left: calc(50% + 428px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to4_2{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to4_2:hover{cursor: pointer; background-color: #FF2732; border-radius: 10px;}
+        #to4_2:hover ~ #boxgraph4{cursor: pointer; background-color: #FF2732; opacity: 1; width: 280px; height: 60px; top:calc(50% + 272px);  left: calc(50% + 428px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+        #to4_3{width: 450px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 635px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to4_3:hover{cursor: pointer; background-color: #FF2732; border-radius: 10px;}
+        #to4_3:hover ~ #boxgraph4{cursor: pointer; background-color: #FF2732; opacity: 1; width: 280px; height: 60px; top:calc(50% + 272px);  left: calc(50% + 428px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+        #to5{width: 600px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 700px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;display:none;}
+        #to5:hover{cursor: pointer; background-color: #2eb8ce; border-radius: 10px;}
+        #to5:hover ~ #boxgraph5{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 250px; height: 70px; top:calc(50% + 345px);  left: calc(50% + 445px); text-align: center; color: white; font-size: 1.5em; line-height: 70px; transition: 0.3s;}
+
+        #end{width: 300px; height: 100px; color: white; background-color: #161616; font-size: 2em; position: absolute; left: calc(50% - 550px); top: calc(50% + 300px); z-index: 4; border: 0px solid #2eb8ce;}
+        #end:hover{cursor: pointer; background-color: white; border-radius: 10px;}

@@ -1,0 +1,54 @@
+#boxgraph0{width: 120px; height: 50px; position: absolute; background-color: white; top:calc(50% - 360px);  left: calc(50% + 510px); border-radius: 10px; opacity: 0; z-index: 10; }
+#boxgraph0:hover{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 250px; height: 70px; top:calc(50% - 370px);  left: calc(50% + 445px); text-align: center; color: white; font-size: 1.5em; line-height: 70px; transition: 0.3s;}
+
+#boxgraph1{width: 120px; height: 40px; position: absolute; background-color: white; top:calc(50% - 277px);  left: calc(50% + 510px); border-radius: 10px; opacity: 0; z-index: 10; }
+#boxgraph1:hover{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 290px; height: 60px; top:calc(50% - 290px);  left: calc(50% + 427px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph21{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 195px);  left: calc(50% + 305px); border-radius: 10px; opacity: 0; z-index: 10; }
+#boxgraph21:hover{cursor: pointer; background-color: #0867FF; opacity: 1; width: 120px; height: 60px; top:calc(50% - 207px);  left: calc(50% + 290px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+#boxgraph22{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 195px);  left: calc(50% + 525px); border-radius: 10px; opacity: 0; z-index: 10; }
+#boxgraph22:hover{cursor: pointer; background-color: #7750DB; opacity: 1; width: 120px; height: 60px; top:calc(50% - 207px);  left: calc(50% + 510px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;} 
+#boxgraph23{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 195px);  left: calc(50% + 745px); border-radius: 10px; opacity: 0; z-index: 10;}
+#boxgraph23:hover{cursor: pointer; background-color: #FF2732; opacity: 1; width: 120px; height: 60px; top:calc(50% - 207px);  left: calc(50% + 730px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph211{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 115px);  left: calc(50% + 258px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph211:hover{cursor: pointer; background-color: #FF2732; opacity: 1; width: 250px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 175px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph212{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 115px);  left: calc(50% + 354px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph212:hover{cursor: pointer; background-color: #121C4D; opacity: 1; width: 250px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 272px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph221{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 115px);  left: calc(50% + 477px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph221:hover{cursor: pointer; background-color: #0867FF; opacity: 1; width: 250px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 395px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph222{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 115px);  left: calc(50% + 573px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph222:hover{cursor: pointer; background-color: #FF2732; opacity: 1; width: 270px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 482px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph231{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 115px);  left: calc(50% + 696px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph231:hover{cursor: pointer; background-color: #7750DB; opacity: 1; width: 240px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 620px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph232{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 115px);  left: calc(50% + 792px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph232:hover{cursor: pointer; background-color: #121C4D; opacity: 1; width: 270px; height: 60px; top:calc(50% - 127px);  left: calc(50% + 675px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph223{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% - 36px);  left: calc(50% + 525px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph223:hover{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 200px; height: 60px; top:calc(50% - 49px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph3{width: 110px; height: 40px; position: absolute; background-color: white; top:calc(50% + 42px);  left: calc(50% + 515px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph3:hover{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 200px; height: 60px; top:calc(50% + 33px);  left: calc(50% + 470px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph31{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% + 123px);  left: calc(50% + 441px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph31:hover{cursor: pointer; background-color: #0867FF; opacity: 1; width: 240px; height: 60px; top:calc(50% + 110px);  left: calc(50% + 362px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+#boxgraph32{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% + 123px);  left: calc(50% + 609px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph32:hover{cursor: pointer; background-color: #121C4D; opacity: 1; width: 240px; height: 60px; top:calc(50% + 110px);  left: calc(50% + 535px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph311{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% + 203px);  left: calc(50% + 442px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph311:hover{cursor: pointer; background-color: #F9DDB7; opacity: 1; width: 280px; height: 60px; top:calc(50% + 190px);  left: calc(50% + 340px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+#boxgraph321{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% + 203px);  left: calc(50% + 560px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph321:hover{cursor: pointer; background-color: #121C4D; opacity: 1; width: 200px; height: 60px; top:calc(50% + 190px);  left: calc(50% + 505px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+#boxgraph322{width: 90px; height: 35px; position: absolute; background-color: white; top:calc(50% + 203px);  left: calc(50% + 658px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph322:hover{cursor: pointer; background-color: #7750db; opacity: 1; width: 200px; height: 60px; top:calc(50% + 190px);  left: calc(50% + 600px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph4{width: 110px; height: 40px; position: absolute; background-color: white; top:calc(50% + 280px);  left: calc(50% + 515px); border-radius: 10px; opacity: 0; z-index: 10; font-size: 0.1em;}
+#boxgraph4:hover{cursor: pointer; background-color: #FF2732; opacity: 1; width: 280px; height: 60px; top:calc(50% + 272px);  left: calc(50% + 428px); text-align: center; color: white; font-size: 1.3em; line-height: 60px; transition: 0.3s;}
+
+#boxgraph5{width: 120px; height: 50px; position: absolute; background-color: white; top:calc(50% + 355px);  left: calc(50% + 510px); border-radius: 10px; opacity: 0; z-index: 10; }
+#boxgraph5:hover{cursor: pointer; background-color: #2eb8ce; opacity: 1; width: 250px; height: 70px; top:calc(50% + 345px);  left: calc(50% + 445px); text-align: center; color: white; font-size: 1.5em; line-height: 70px; transition: 0.3s;}
